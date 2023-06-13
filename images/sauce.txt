@@ -1,0 +1,4 @@
+corsairbanner
+https://www.corsair.com/uk/en/Categories/Products/Systems/c/Cor_Systems
+PowerToys
+https://github.com/microsoft/PowerToys/tree/main/doc/images/icons/PowerToys%20icon/PNG
