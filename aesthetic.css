@@ -16,7 +16,7 @@ body a:hover { color: #B61A6E; }
 	   
 #wrapper { background-color: #E5E4E2; padding-left: 2em; padding-right: 2em; padding-top: .1em; padding-bottom: 1em;}
 	   
-header {height: auto; min-height: 250px; background-image: url(testers/corsairbanner.jpg); background-color: #40407A; color: #FFFFFF; background-size: 100% 100%; font-size: 90%; } 
+header {height: auto; min-height: 250px; background-image: url(https://website-tester-bucket.s3.us-east-2.amazonaws.com/images/corsairbanner.jpg); background-color: #40407A; color: #FFFFFF; background-size: 100% 100%; font-size: 90%; } 
 header a {text-decoration: none; }
 header a:link { color: #FFFFFF; }
 header a:visited { color: #FFFFFF; }
